@@ -11,7 +11,7 @@ from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 
 st.set_page_config(page_title="Document Chatbot", layout="centered")
-st.title("Chat With Your Documents")
+st.title("Chat With Your Love Imran 💖")
 st.caption("Upload a PDF or text file, then ask questions about it.")
 
 # Securely extract API keys from standard cloud runtime environments
