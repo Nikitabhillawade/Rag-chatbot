@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Local development port pointer linking to our active FastAPI backend service
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://rag-chatbot-backend-0x3h.onrender.com"
 
 st.set_page_config(page_title="Document Chatbot", layout="centered")
 st.title("Chat With Your Documents")
